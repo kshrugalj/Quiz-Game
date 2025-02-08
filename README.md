@@ -25,9 +25,6 @@ A simple and interactive quiz game built using **Swift** and **SwiftUI**. This g
 - The app will instantly indicate whether your answer is correct or not.
 - At the end of the quiz, view your total score.
 
-## Screenshots
-/Users/kshrugal/Desktop/A-State Advanced/QuizGame/Simulator Screenshot - iPhone 16 Pro - 2025-02-02 at 11.27.08.png
-
 ## Future Improvements
 - Add a **timer** for each question.
 - Include **different categories** of questions.
